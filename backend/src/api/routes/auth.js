@@ -4,7 +4,7 @@ const User = require("../../models/User");
 const Patient = require("../../models/Patient");
 const Doctor = require("../../models/Doctor");
 const Appointment = require("../../models/Appointment");
-const HealthRecord = require("../../models/MedicalRecord");
+const HealthRecord = require("../../models/Medicalrecord");
 //const sendEmail = require("../../utils/sendEmail");
 
 const { body, validationResult } = require("express-validator");
