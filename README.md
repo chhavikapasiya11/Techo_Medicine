@@ -10,7 +10,7 @@ Techomedicine is a secure, scalable telemedicine platform that enables digital h
 
 • Smart appointment scheduling for booking, rescheduling, and tracking consultations
 
-• Secure doctor–patient communication with authenticated access 
+• Secure doctor–patient communication with authenticated access
 
 • AI-powered assistance using Gemini API for healthcare queries
 
