@@ -67,7 +67,7 @@ npm start
 
 ## 🎥 Demo Video
 
-(https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing)
+https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing
 
 ## 🚀 Future Enhancements
 • E-prescriptions
